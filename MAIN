@@ -1,3 +1,5 @@
 if game.GameId == 66654135 then -- MM2
   loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/TosanStudios/refs/heads/main/MM2-obfuscated.lua"))()
+elseif game.GameId == 10200395747 then -- GAG2
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/TosanStudios/refs/heads/main/GAG2-obfuscated.lua"))()
 end
