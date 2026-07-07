@@ -4,5 +4,7 @@ elseif game.GameId == 10200395747 then -- GAG2
   loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/TosanStudios/refs/heads/main/GAG2-obfuscated.lua"))()
 elseif game.GameId == 9584852943 then -- +1 speed keyboard escape 
   loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/TosanStudios/refs/heads/main/PlusSpeedKeyboardEscape.lua"))()
+elseif game.GameId == 994732206 then -- blox fruits 
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/TosanStudios/refs/heads/main/BloxFruits-obfuscated.lua"))()
 end
 
